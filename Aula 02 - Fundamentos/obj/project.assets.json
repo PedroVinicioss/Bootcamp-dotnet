@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedro Vinicios\\Documents\\GitHub\\Bootcamp-dotnet\\Aula 01 - Fundamentos\\Aula 01 - Fundamentos.csproj",
-      "projectName": "Aula 01 - Fundamentos",
-      "projectPath": "C:\\Users\\Pedro Vinicios\\Documents\\GitHub\\Bootcamp-dotnet\\Aula 01 - Fundamentos\\Aula 01 - Fundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Pedro Vinicios\\Documents\\GitHub\\Bootcamp-dotnet\\Aula 02 - Fundamentos\\Aula 02 - Fundamentos.csproj",
+      "projectName": "Aula 02 - Fundamentos",
+      "projectPath": "C:\\Users\\Pedro Vinicios\\Documents\\GitHub\\Bootcamp-dotnet\\Aula 02 - Fundamentos\\Aula 02 - Fundamentos.csproj",
       "packagesPath": "C:\\Users\\Pedro Vinicios\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedro Vinicios\\Documents\\GitHub\\Bootcamp-dotnet\\Aula 01 - Fundamentos\\obj\\",
+      "outputPath": "C:\\Users\\Pedro Vinicios\\Documents\\GitHub\\Bootcamp-dotnet\\Aula 02 - Fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pedro Vinicios\\AppData\\Roaming\\NuGet\\NuGet.Config"
