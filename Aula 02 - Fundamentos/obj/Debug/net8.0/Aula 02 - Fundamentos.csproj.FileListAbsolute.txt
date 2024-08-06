@@ -13,3 +13,18 @@ C:\Users\Pedro Vinicios\Documents\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\o
 C:\Users\Pedro Vinicios\Documents\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\Aula 02 - Fundamentos.pdb
 C:\Users\Pedro Vinicios\Documents\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\Aula 02 - Fundamentos.genruntimeconfig.cache
 C:\Users\Pedro Vinicios\Documents\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\ref\Aula 02 - Fundamentos.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\bin\Debug\net8.0\Aula 02 - Fundamentos.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\bin\Debug\net8.0\Aula 02 - Fundamentos.deps.json
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\bin\Debug\net8.0\Aula 02 - Fundamentos.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\bin\Debug\net8.0\Aula 02 - Fundamentos.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\bin\Debug\net8.0\Aula 02 - Fundamentos.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\Aula 02 - Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\Aula 02 - Fundamentos.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\Aula 02 - Fundamentos.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\Aula 02 - Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\Aula 02 - Fundamentos.sourcelink.json
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\Aula 02 - Fundamentos.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\refint\Aula 02 - Fundamentos.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\Aula 02 - Fundamentos.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\Aula 02 - Fundamentos.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\Bootcamp-dotnet\Aula 02 - Fundamentos\obj\Debug\net8.0\ref\Aula 02 - Fundamentos.dll
