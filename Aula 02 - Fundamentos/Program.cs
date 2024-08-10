@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel;
+using System.Runtime.CompilerServices;
 using Aula_02___Fundamentos.Models;
 
 //classes
@@ -43,19 +44,19 @@ using Aula_02___Fundamentos.Models;
 
 //listas
 
-List<string> listaString = new List<string>();
+// List<string> listaString = new List<string>();
 
 // listaString.Add("SP");
 // listaString.Add("BA");
 // listaString.Add("MG");
 //ou
-listaString.AddRange(new string[] { "SP", "BA", "MG" });
+// listaString.AddRange(new string[] { "SP", "BA", "MG" });
 //ou
-listaString.AddRange(new List<string> { "SP", "BA", "MG" });
+// listaString.AddRange(new List<string> { "SP", "BA", "MG" });
 
-foreach(string estado in listaString){
-    Console.WriteLine(estado);
-}
+// foreach(string estado in listaString){
+//     Console.WriteLine(estado);
+// }
 
 //fila
 Queue<int> fila = new Queue<int>();
@@ -71,3 +72,19 @@ foreach(int item in fila){
 
 //Removendo o primeiro elemento, sempre é o primeiro
 Console.WriteLine($"Removendo o primeiro elemento da fila {fila.Dequeue()}");
+
+
+//Pilha (contrario da fila)
+Stack<int> pilha = new Stack<int>();
+
+//add elemento
+pilha.Push(1);
+pilha.Push(6);
+pilha.Push(23);
+
+foreach(int item in pilha){
+    Console.WriteLine(item);
+}
+
+//removendo o ultimo elemento da pilha, sempre o ultimo
+pilha.Pop();
