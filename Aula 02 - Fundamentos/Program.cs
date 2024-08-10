@@ -1,4 +1,5 @@
-﻿using Aula_02___Fundamentos.Models;
+﻿using System.ComponentModel;
+using Aula_02___Fundamentos.Models;
 
 //classes
 // Pessoa p = new Pessoa();
@@ -55,3 +56,18 @@ listaString.AddRange(new List<string> { "SP", "BA", "MG" });
 foreach(string estado in listaString){
     Console.WriteLine(estado);
 }
+
+//fila
+Queue<int> fila = new Queue<int>();
+
+//add elemento
+fila.Enqueue(2);
+fila.Enqueue(5);
+fila.Enqueue(3);
+
+foreach(int item in fila){
+    Console.WriteLine(item);
+}
+
+//Removendo o primeiro elemento, sempre é o primeiro
+Console.WriteLine($"Removendo o primeiro elemento da fila {fila.Dequeue()}");
